@@ -1,2 +1,2 @@
 # hotel
-Website link:https://app.netlify.com/sites/symphonious-treacle-067ade/overview
+Website link:https://symphonious-treacle-067ade.netlify.app
